@@ -10,6 +10,7 @@ Imagen del volcán Arenal:
 
 ![alt text](https://github.com/DeilerSIlva/Proyecto-4/blob/main/output_25_2.png)
 
+Resultado de las señales y suma de estas:
 
 ![alt text](https://github.com/DeilerSIlva/Proyecto-4/blob/main/output_26_0.png)
 
