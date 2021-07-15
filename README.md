@@ -13,4 +13,5 @@ Imagen del volcán Arenal:
 
 ![alt text](https://github.com/DeilerSIlva/Proyecto-4/blob/main/output_26_0.png)
 
+Aquí vemos la gráfica de la densidad espectral de potencia para la señal modulada.
 ![alt text](https://github.com/DeilerSIlva/Proyecto-4/blob/main/output_28_1.png)
